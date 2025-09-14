@@ -59,6 +59,7 @@
   "clock#simpleclock": {
     "tooltip": false,
     "format": " {:%H:%M}",
+    "timezone": "Asia/Jerusalem"
   },
   "clock": {
     "format": " {:L%a %d %b}",
